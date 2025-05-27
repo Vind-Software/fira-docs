@@ -1,0 +1,1 @@
+A `portfolio` represents a collection of `assets`, `liabilities` and other `portfolios`. By aggregating the balance of all elements under it, the value of the portfolio itself can be calculated. A `portfolio` can belong to one or more `users`, according to the `general rule of ownership`.

@@ -1,0 +1,1 @@
+An `user` is someone that can `authenticate` in `fira-server` and after that is `authorized` to interact with its features on its own context.

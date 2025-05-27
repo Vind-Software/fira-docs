@@ -1,0 +1,1 @@
+An `liability` represents an obligation that 
