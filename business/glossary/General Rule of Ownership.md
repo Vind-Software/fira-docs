@@ -1,1 +1,1 @@
-`Assets`, `Liabilities` and `Portfolios`
+`Assets`, `Liabilities` and `Portfolios` ownership is what defines how much of the element value each `user` is entitled to. If an asset, `users` are entitled to a share of its value upon liquidation. If an `liability`, `users` must proportionally contribute to the obligation acording to their shares of it. The ownership of an financial element must always amount to 100%, and can be divided between one or more users. A subset of those users are considered `administrators`, who has authorization to liquify assets. 

@@ -1,0 +1,1 @@
+`Asset liquidity` defines how long it takes for an `asset` current value to be available to use in `transference transactions`. The liquidity is expressed in number of days, usually in the "D+n" format. 
